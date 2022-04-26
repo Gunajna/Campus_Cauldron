@@ -104,15 +104,3 @@ Web Applications are dynamic web sites combined with server side programming whi
 # Data Base
 - [MySQL](http://www.mysql.com/) - MySQL is an open-source relational database management system (RDBMS). Its name is a combination of "My", and "SQL", the abbreviation for Structured Query Language.
 ***
-
-# OUR TEAM : `CHAOS`
-
-| Team Chaos  | Members | Branch  | Year |
-| ------------- | ------------- | ------------- | ------------- |
-| I  | Ashutosh Dwivedi  | Electrical Engineering  | Second Year  |
-| II  | Mahima Rai `(Leader)`  | Electronics & Communication Engineering  | Second Year  |
-| III  | Kshitij Sharma  | Electronics & Communication Engineering  | Second Year  |
-| IV  | Rati Gupta  | Information Technology  | Second Year  |
-***
-
-
